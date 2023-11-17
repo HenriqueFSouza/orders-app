@@ -4,11 +4,11 @@ This project is a simple usage of React.js and React Hooks. You can write your o
 
 ## Create an order
 
-<img src="./src/assets/orders-app-interface-2.jpg" alt="create-order-page-image" >
+<img src="./src/assets/orders-app-interface-2.jpg" alt="create-order-page-image" style="width:400px; height:750px" >
 
 ## Check all the orders
 
-<img src="./src/assets/orders-app-interface-2.jpg" alt="create-order-page-image" >
+<img src="./src/assets/orders-app-interface-2.jpg" alt="create-order-page-image" style="width:400px; height:750px">
 
 <br />
 
